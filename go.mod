@@ -1,4 +1,4 @@
-module github.com/tedoham/myride
+module github.com/tedoham/mytempl
 
 go 1.22.0
 

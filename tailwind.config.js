@@ -31,9 +31,9 @@ module.exports = {
         },
       },
       plugins: [
-        // require("@tailwindcss/forms"),
-        // require("@tailwindcss/typography"),
-        // require("autoprefixer"),
+        require("@tailwindcss/forms"),
+        require("@tailwindcss/typography"),
+        require("autoprefixer"),
       ],
     },
   },
